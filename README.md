@@ -22,7 +22,11 @@ For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 
 ## Where to edit?
 
-- The main code is located in src/content.tsx. By default, when you run the extension, it displays a static count button on the LinkedIn website. You need to replace it with your own code.
+- The main code is located in 
+
+https://github.com/user-attachments/assets/100b93dc-a619-4c4a-8f64-4f38e5495b4d
+
+src/content.tsx. By default, when you run the extension, it displays a static count button on the LinkedIn website. You need to replace it with your own code.
 
 ![count btn on linkedin](count_btn_on_linkedin.png)
 
